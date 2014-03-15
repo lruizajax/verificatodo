@@ -102,6 +102,8 @@
                 </tr>
             </table>
         </div>
+
         <?php require_once 'google_analytics.php'; ?>
+        
     </body>
 </html>
