@@ -1,0 +1,87 @@
+body{
+    background-color:#000;
+    color:#FFF;
+    font-family:Verdana, Geneva, sans-serif;
+    font-size:17px;
+    font-weight:normal;
+}
+#step_1{
+    height:500px;
+    width:800px;
+    margin:0 auto;
+    padding:0;
+    background-color:#FFF;
+}
+#step_2{
+    height:900px;
+    width:800px;
+    margin:0 auto;
+    padding:0;
+    background-color:#FFF;
+}
+#header{
+    width:100%;
+}
+.labe1{
+    font-size:10px;
+    font-weight:normal;
+    text-transform: lowercase;
+    text-align:center;
+    cursor: pointer;
+    width: 100%;
+}
+.labels{
+    font-size:16px;
+    font-weight:bold;
+    text-transform: lowercase;
+}
+.labelss{
+    font-size:17px;
+    font-weight:normal;
+}
+.labelsss{
+    font-size:17px;
+    font-weight:normal;
+    line-height:30px;
+}
+.logo{
+    font-size:30px;
+    font-weight:normal;
+    color:#000;
+    text-transform: lowercase;
+    letter-spacing:3px;
+}
+.bold{
+    font-weight:bold;
+}
+.red{
+    color:red;
+}
+#search{
+    height:45px;
+    width:530px;
+    text-align:center;
+    font-size:32px;
+    color:#808080;
+    text-transform:uppercase;
+    border:solid 1px red;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+#searchz{
+    height:45px;
+    width:400px;
+    text-align:center;
+    font-size:32px;
+    color:#808080;
+    text-transform:uppercase;
+    border:solid 1px red;
+    visibility:hidden;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+.hand{
+    cursor:pointer;
+}
